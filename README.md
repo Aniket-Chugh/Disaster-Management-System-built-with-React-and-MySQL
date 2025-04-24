@@ -4,7 +4,6 @@
 
 In this blog post, I'm going to share the details of a project I've been working on: **Disaster Management System**. Built using **React** and **TailWind CSS** for the front-end and **MySQL** for the back-end, this system aims to help people report and manage disaster situations efficiently. The goal is to build a scalable, user-friendly, and efficient solution for handling critical disaster reports in real-time.
 
-[GitHub Repository Link](https://github.com/Aniket-Chugh/disaster-managment-React-and-MySql)
 
 ## Features
 
